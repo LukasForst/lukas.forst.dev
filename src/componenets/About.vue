@@ -12,11 +12,11 @@
         software architecture, client-facing, and leading projects from technical side.
       </p>
       <p class="about-text md-body-2">
-        I'm currently pursuing a Cyber Security Master's degree at CTU. I started my career in the
-        Prague-based AI startup Blindspot Solutions and then moved to a cybersecurity startup in
+        I'm currently pursuing a Cyber Security Master's degree at CTU, more specifically in Stratosphere Research Laboratory.
+        I started my career in the Prague-based AI startup Blindspot Solutions and then moved to a cyber-security startup in
         Berlin - Wire. At the beginning of 2020, I co-founded a medical AI startup, Mild Blue,
         where I'm responsible for the products and company security.
-        As of 2021, I have four years of experience building production-ready software.
+        As of {{ thisYear }}, I have {{ experience }} years of experience building production-ready software.
       </p>
     </div>
   </div>
@@ -25,7 +25,16 @@
 
 <script>
 export default {
-  name: 'About'
+  name: 'About',
+  data() {
+    const now = new Date().getFullYear();
+    const experience = now - 2017;
+    return {
+      thisYear: now,
+      experience: experience
+    };
+  }
+
 };
 </script>
 

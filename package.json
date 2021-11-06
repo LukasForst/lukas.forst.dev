@@ -1,6 +1,6 @@
 {
-  "name": "lukas.forst.pw",
-  "version": "0.1.0",
+  "name": "lukas.forst.dev",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

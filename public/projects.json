@@ -135,7 +135,7 @@
   {
     "title": "This site",
     "description": "This website.",
-    "githubLink": "https://github.com/LukasForst/lukas.forst.pw",
+    "githubLink": "https://github.com/LukasForst/lukas.forst.dev",
     "language": "vuejs",
     "category": "web"
   },
@@ -180,5 +180,19 @@
     "githubLink": "https://github.com/wireapp/jira-broadcast",
     "language": "deno",
     "category": "wire"
+  },
+  {
+    "title": "Covid Vaxx",
+    "description": "A tool for the administration of COVID-19 vaccinations.",
+    "githubLink": "https://github.com/mild-blue/covid-vaxx",
+    "language": "kotlin",
+    "category": "mild-blue"
+  },
+  {
+    "title": "StratosphereLinuxIPS",
+    "description": "A machine learning-based Intrusion Prevention System (IDS/IPS). Stratosphere Laboratory",
+    "githubLink": "https://github.com/stratosphereips/StratosphereLinuxIPS",
+    "language": "python",
+    "category": "stratosphere"
   }
 ]
