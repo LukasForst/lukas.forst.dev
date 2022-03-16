@@ -14,6 +14,20 @@
     "category": "library"
   },
   {
+    "title": "Ktor Rate Limiting",
+    "description": "Rate limiting plugin for Ktor.",
+    "githubLink": "https://github.com/LukasForst/ktor-rate-limiting",
+    "language": "kotlin",
+    "category": "library"
+  },
+  {
+    "title": "Ktor Api Key",
+    "description": "Ktor API Key Authentication Provider.",
+    "githubLink": "https://github.com/LukasForst/ktor-api-key",
+    "language": "kotlin",
+    "category": "library"
+  },
+  {
     "title": "Charon",
     "description": "Proxy mapping Slack API to Wire API.",
     "githubLink": "https://github.com/wireapp/charon",
