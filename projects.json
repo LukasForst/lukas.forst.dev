@@ -216,6 +216,13 @@
       "githubLink": "https://github.com/stratosphereips/StratosphereLinuxIPS",
       "language": "python",
       "category": "stratosphere"
+    },
+    {
+      "title": "Fides",
+      "description": "Global Trust Model for P2P Intrusion Prevention System (IDS/IPS).",
+      "githubLink": "https://github.com/LukasForst/fides",
+      "language": "python",
+      "category": "stratosphere"
     }
   ]
 }
