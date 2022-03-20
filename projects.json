@@ -29,6 +29,20 @@
       "category": "library"
     },
     {
+      "title": "Covid Vaxx",
+      "description": "A tool for the administration of COVID-19 vaccinations.",
+      "githubLink": "https://github.com/mild-blue/covid-vaxx",
+      "language": "kotlin",
+      "category": "mild-blue"
+    },
+    {
+      "title": "TXMatching",
+      "description": "Solver for kidney pair donation matching problems.",
+      "githubLink": "https://github.com/mild-blue/txmatching",
+      "language": "python",
+      "category": "mild-blue"
+    },
+    {
       "title": "Wire Backup Export",
       "description": "Visualisation of Wire Clients backup",
       "githubLink": "https://github.com/wireapp/backup-export-tool",
@@ -50,6 +64,13 @@
       "category": "wire"
     },
     {
+      "title": "StratosphereLinuxIPS",
+      "description": "A machine learning-based Intrusion Prevention System (IDS/IPS). Stratosphere Laboratory",
+      "githubLink": "https://github.com/stratosphereips/StratosphereLinuxIPS",
+      "language": "python",
+      "category": "stratosphere"
+    },
+    {
       "title": "Charon",
       "description": "Proxy mapping Slack API to Wire API.",
       "githubLink": "https://github.com/wireapp/charon",
@@ -58,7 +79,7 @@
     },
     {
       "title": "Charon-Slack DevOps",
-      "description": "DevOps porn for Slack Bots onboarding.",
+      "description": "DevOps for Slack Bots onboarding.",
       "githubLink": "https://github.com/LukasForst/slack-onboarding-bot",
       "language": "devops",
       "category": "wire"
@@ -169,13 +190,6 @@
       "category": "web"
     },
     {
-      "title": "TXMatching",
-      "description": "Solver for kidney pair donation matching problems.",
-      "githubLink": "https://github.com/mild-blue/txmatching",
-      "language": "python",
-      "category": "mild-blue"
-    },
-    {
       "title": "CEE Hacks Machine Learning",
       "description": "Award winning submission for CEE Hacks.",
       "githubLink": "https://github.com/mild-blue/cee-hacks-2020-ml",
@@ -202,20 +216,6 @@
       "githubLink": "https://github.com/wireapp/jira-broadcast",
       "language": "deno",
       "category": "wire"
-    },
-    {
-      "title": "Covid Vaxx",
-      "description": "A tool for the administration of COVID-19 vaccinations.",
-      "githubLink": "https://github.com/mild-blue/covid-vaxx",
-      "language": "kotlin",
-      "category": "mild-blue"
-    },
-    {
-      "title": "StratosphereLinuxIPS",
-      "description": "A machine learning-based Intrusion Prevention System (IDS/IPS). Stratosphere Laboratory",
-      "githubLink": "https://github.com/stratosphereips/StratosphereLinuxIPS",
-      "language": "python",
-      "category": "stratosphere"
     },
     {
       "title": "Fides",
