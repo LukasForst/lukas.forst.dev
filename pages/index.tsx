@@ -1,3 +1,5 @@
+// noinspection JSUnusedGlobalSymbols
+
 import { loadProjects } from '../lib/loaders';
 import { Project } from '../model/Project';
 import ProjectList from '../components/ProjectList';
