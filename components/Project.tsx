@@ -11,7 +11,7 @@ export default function ProjectDetail({ project }: { project: Project }) {
     >
       <div className={`card-img-top ${styles.logo}`}>
         <Image
-          src={`/assets/${project.language}.png`}
+          src={`/images/${project.language}.webp`}
           alt={`${project.language} icon`}
           height={`60px`}
           width={`60px`}

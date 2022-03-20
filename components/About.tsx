@@ -9,7 +9,7 @@ export default function About() {
     <div className={`container`} style={{ padding: '50px' }}>
       <div className={`row justify-content-center`}>
         <Image
-          src={`/assets/me.jpeg`}
+          src={`/images/me.webp`}
           alt={`Lukas Forst`}
           height={`300px`}
           width={`300px`}
@@ -29,7 +29,7 @@ export default function About() {
              rel={'noreferrer'}
           >
             <Image
-              src={'/assets/github.png'}
+              src={'/images/github.webp'}
               height={icoSizePx}
               width={icoSizePx}
               alt={'Github icon.'}
@@ -39,7 +39,7 @@ export default function About() {
              href={'mailto:lukas@forst.dev'}
           >
             <Image
-              src={'/assets/email.png'}
+              src={'/images/email.webp'}
               height={icoSizePx}
               width={icoSizePx}
               alt={'Email icon.'}
@@ -51,7 +51,7 @@ export default function About() {
              rel={'noreferrer'}
           >
             <Image
-              src={'/assets/ln.png'}
+              src={'/images/ln.webp'}
               height={icoSizePx}
               width={icoSizePx}
               alt={'LinkedIn icon.'}
