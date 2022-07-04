@@ -62,7 +62,7 @@ export default function About() {
       <div className={`row justify-content-evenly`}>
         <div className={`col ${styles.textBlock}`}>
           {`
-          I'm a motivated and self-driven Senior Software Engineer with in-depth knowledge of Kotlin,
+          I'm a motivated and self-driven Solutions Architect with in-depth knowledge of Kotlin,
           Software Architecture and passion for functional programming all the way
           from the lambda calculus through Haskell to the Kotlin & JavaScript.
           I love designing and implementing one-click DevOps and have a strong
@@ -74,7 +74,7 @@ export default function About() {
         </div>
         <div className={`col ${styles.textBlock}`}>
           {`
-          I'm currently pursuing a Cyber Security Master's degree at CTU and researching trust models in Stratosphere IPS.
+          I hold master's degree in Cyber Security.
           I started my career in the Prague-based AI startup Blindspot Solutions and then moved to a cyber-security startup in
           Berlin - Wire. At the beginning of 2020, I co-founded and bootstrapped a medical AI startup, Mild Blue,
           where I'm responsible for the products and company security.
