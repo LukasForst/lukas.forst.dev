@@ -68,8 +68,7 @@ export default function About() {
           I love designing and implementing one-click DevOps and have a strong
           experience in architecture design (including PaaS, SaaS) as well as mathematical
           background ranging from group theory, data analysis, AI utilization,
-          predictions to mathematical optimization. I have strong experience in software engineering,
-          software architecture, client-facing, and leading projects from technical side.
+          predictions to mathematical optimization. 
           `}
         </div>
         <div className={`col ${styles.textBlock}`}>
