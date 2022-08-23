@@ -81,6 +81,14 @@ export default function About() {
           As of ${now}, I have ${experience} years of experience building production-ready software.
           `}
         </div>
+        <div className={`col ${styles.textBlock}`}>
+          {`
+          I love projects and products that matter - like Mild Blue saving lives in hospitals and Wire keeping conversations secure & private. 
+          I don't want to sell clicks and ads. I do contract work & consultations. 
+          My speciality is security, privacy, applied cryptography and secure designs in general. 
+          I love writing code and designing new exciting stuff, feel free to reach out!
+          `}
+        </div>
       </div>
     </div>
   );
