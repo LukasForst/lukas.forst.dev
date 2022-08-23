@@ -8,23 +8,23 @@
       "category": "library"
     },
     {
+      "title": "Ktor Plugins",
+      "description": "Various Ktor extensions and plugins.",
+      "githubLink": "https://github.com/LukasForst/ktor-plugins",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
+      "title": "Ktor OpenAPI Generator",
+      "description": "Ktor OpenAPI/Swagger 3 Generator",
+      "githubLink": "https://github.com/LukasForst/ktor-openapi-generator",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
       "title": "Exposed Upsert",
       "description": "PostgreSQL upsert implementation for Exposed framework.",
       "githubLink": "https://github.com/LukasForst/exposed-upsert",
-      "language": "kotlin",
-      "category": "library"
-    },
-    {
-      "title": "Ktor Rate Limiting",
-      "description": "Rate limiting plugin for Ktor.",
-      "githubLink": "https://github.com/LukasForst/ktor-rate-limiting",
-      "language": "kotlin",
-      "category": "library"
-    },
-    {
-      "title": "Ktor Api Key",
-      "description": "Ktor API Key Authentication Provider.",
-      "githubLink": "https://github.com/LukasForst/ktor-api-key",
       "language": "kotlin",
       "category": "library"
     },
