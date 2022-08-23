@@ -162,6 +162,13 @@
       "category": "theory"
     },
     {
+      "title": "Master Thesis",
+      "description": "Fides: Trust Model for Collaborative Network Defence.",
+      "githubLink": "https://github.com/LukasForst/master-thesis",
+      "language": "tex",
+      "category": "theory"
+    },
+    {
       "title": "Students Phishing",
       "description": "Blog post on how we hacked students on CTU.",
       "githubLink": "https://github.com/LukasForst/BSY",
